@@ -1,0 +1,16 @@
+# Maven: archivos de compilación y empaquetado
+/target/
+
+# Java: clases compiladas
+*.class
+
+# IDE: configuración local de IntelliJ IDEA y Visual Studio Code
+.idea/
+.vscode/
+*.iml
+
+# Aplicación: archivos de log generados
+*.log
+
+# Facturas generadas localmente
+/facturas/
