@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a52d53-f724-4f15-9a7b-4dd40b84c1d9" name="Changes" comment="feat: proyecto">
-      <change afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/servicio/ServiciosCompletadosStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java_examen1_proyecto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/dao/ReporteServiciosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/dao/ReporteServiciosDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/dao/ReporteServiciosDAOJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/dao/ReporteServiciosDAOJdbc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/modelo/FilaReporteDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/modelo/FilaReporteDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/modelo/TipoReporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/modelo/TipoReporte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/vista/VistaReportes.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01/src/main/java/com/carmotors/vista/VistaReportes.java" afterDir="false" />
-    </list>
+    <list default="true" id="38a52d53-f724-4f15-9a7b-4dd40b84c1d9" name="Changes" comment="feat: proyecto examen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/proyecto_java_grupo01/proyecto_java_grupo01" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -45,6 +33,65 @@
     "accountId": "0576854a-987b-4747-9b44-11c9f7101840"
   }
 }]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000007" />
+      <entry key="S5" value="1.0000015301785574" />
+      <entry key="S10" value="1.0021297686325654" />
+      <entry key="S30" value="1.2672503030250974" />
+      <entry key="S60" value="1.8952456234591057" />
+      <entry key="M2" value="2.6387482100580595" />
+      <entry key="M5" value="3.3554449026970747" />
+      <entry key="M10" value="3.658253036065778" />
+      <entry key="M15" value="3.767607229325281" />
+      <entry key="M30" value="3.881461149430161" />
+      <entry key="H1" value="3.9401330889561192" />
+      <entry key="H2" value="3.9699156630368693" />
+      <entry key="H4" value="3.9849199207379518" />
+      <entry key="D1" value="3.9974813718297026" />
+      <entry key="W1" value="3.9996400664174105" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8645372313078652" />
+      <entry key="MS500" value="0.9713074955416333" />
+      <entry key="S2" value="0.9927483754403087" />
+      <entry key="S5" value="0.9970945445848988" />
+      <entry key="S10" value="1.0006745546193994" />
+      <entry key="S30" value="1.266736763566007" />
+      <entry key="S60" value="1.8949550925224183" />
+      <entry key="M2" value="2.638582883178072" />
+      <entry key="M5" value="3.35537101878869" />
+      <entry key="M10" value="3.658214454303355" />
+      <entry key="M15" value="3.767581113196224" />
+      <entry key="M30" value="3.8814478857201857" />
+      <entry key="H1" value="3.9401264041056496" />
+      <entry key="H2" value="3.9699123071600204" />
+      <entry key="H4" value="3.9849182394109803" />
+      <entry key="D1" value="3.997481091135719" />
+      <entry key="W1" value="3.9996400263066616" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
   "fromUser": false
@@ -92,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: proyecto" />
+    <MESSAGE value="feat: proyecto examen" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: proyecto examen" />
   </component>
 </project>
